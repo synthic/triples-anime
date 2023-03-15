@@ -1,5 +1,5 @@
-import anime from 'https://cdn.skypack.dev/animejs@3.2.1';
-import Letterize from 'https://cdn.skypack.dev/letterizejs@2.0.1';
+import anime from 'https://cdn.jsdelivr.net/npm/animejs@3.2.1/+esm';
+import Letterize from 'https://cdn.jsdelivr.net/npm/letterizejs@2.0.1/+esm';
 
 const letters = new Letterize({
     targets: '.row'
